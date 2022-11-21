@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Malek\\Source\\Repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj": {}
+    "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Malek\\Source\\Repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj": {
+    "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Malek\\Source\\Repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj",
+        "projectUniqueName": "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj",
         "projectName": "ASP.NETCoreIdentityCustom",
-        "projectPath": "C:\\Users\\Malek\\Source\\Repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj",
+        "projectPath": "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj",
         "packagesPath": "C:\\Users\\Malek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Malek\\Source\\Repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\obj\\",
+        "outputPath": "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

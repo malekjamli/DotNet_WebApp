@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JUlB3yIoP5hQveCHU1njpGQ3Yfuajc4eB3Mq9+iBAx3V1rFYnZFU06GJEzPqVAbgpR9o//SSQDvznj6Dkk9NNQ==",
+  "dgSpecHash": "Q85bJqvkKMRi//Nx9E7OUSxisOJ3Opn03HDndTDp8CGGXLd9G9veiPvA/bt6ZERnLx0Xm4Za4xI9M25mT6+wCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Malek\\Source\\Repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj",
+  "projectFilePath": "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Malek\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Malek\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
