@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9EKiXPiUOz3gvr2aA1abm29SLBpP8zmMZ2xDJco0i9A=",
+  "Hash": "WGNxH+i/2D9dDWLPu5ehm1rS2AIDvBcJi7lrBibF+3w=",
   "Source": "ASP.NETCoreIdentityCustom",
   "BasePath": "_content/ASP.NETCoreIdentityCustom",
   "Mode": "Default",
@@ -1239,6 +1239,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\image\\enis3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\wwwroot\\image\\enis4.jpg",
+      "SourceId": "ASP.NETCoreIdentityCustom",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\wwwroot\\",
+      "BasePath": "_content/ASP.NETCoreIdentityCustom",
+      "RelativePath": "image/enis4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\enis4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\wwwroot\\image\\enis5.jpg",
+      "SourceId": "ASP.NETCoreIdentityCustom",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\wwwroot\\",
+      "BasePath": "_content/ASP.NETCoreIdentityCustom",
+      "RelativePath": "image/enis5.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\enis5.jpg"
     },
     {
       "Identity": "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\wwwroot\\image\\logo_enis_sfax.png",
