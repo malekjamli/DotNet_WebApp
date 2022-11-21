@@ -10240,23 +10240,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Malek\\.nuget\\packages\\": {},
+    "C:\\Users\\Espace Info\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Malek\\Source\\Repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj",
+      "projectUniqueName": "C:\\Users\\Espace Info\\source\\repos\\DotNet_WebApp\\ASP.NETCoreIdentityCustom.csproj",
       "projectName": "ASP.NETCoreIdentityCustom",
-      "projectPath": "C:\\Users\\Malek\\Source\\Repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj",
-      "packagesPath": "C:\\Users\\Malek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Malek\\Source\\Repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\obj\\",
+      "projectPath": "C:\\Users\\Espace Info\\source\\repos\\DotNet_WebApp\\ASP.NETCoreIdentityCustom.csproj",
+      "packagesPath": "C:\\Users\\Espace Info\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Espace Info\\source\\repos\\DotNet_WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Malek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Espace Info\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
