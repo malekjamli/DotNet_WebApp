@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj": {}
+    "C:\\Users\\Aymen\\source\\repos\\Enis_Web_App\\ASP.NETCoreIdentityCustom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj": {
+    "C:\\Users\\Aymen\\source\\repos\\Enis_Web_App\\ASP.NETCoreIdentityCustom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj",
+        "projectUniqueName": "C:\\Users\\Aymen\\source\\repos\\Enis_Web_App\\ASP.NETCoreIdentityCustom.csproj",
         "projectName": "ASP.NETCoreIdentityCustom",
-        "projectPath": "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\ASP.NETCoreIdentityCustom.csproj",
-        "packagesPath": "C:\\Users\\Malek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Malek\\source\\repos\\.NET-Core-Identity-Custom\\ASP.NETCoreIdentityCustom\\obj\\",
+        "projectPath": "C:\\Users\\Aymen\\source\\repos\\Enis_Web_App\\ASP.NETCoreIdentityCustom.csproj",
+        "packagesPath": "C:\\Users\\Aymen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Aymen\\source\\repos\\Enis_Web_App\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Malek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Aymen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,17 +50,17 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[6.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[6.0.10, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[6.0.10, )"
             }
           },
           "imports": [
